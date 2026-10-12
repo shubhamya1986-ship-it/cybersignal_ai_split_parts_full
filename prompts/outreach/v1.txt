@@ -1,0 +1,5 @@
+Write concise B2B cybersecurity prospecting outreach.
+Use only supplied evidence.
+Mention one or two observed infrastructure signals.
+Do not claim breach, compromise, vulnerability, or unsupported business facts.
+Use a consultative tone and a soft CTA.
